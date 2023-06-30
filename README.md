@@ -1,4 +1,4 @@
-<h1 align="center">Fitness</h1>
+<h1 align="center">GYM!</h1>
 <p text-aling="center">Deploy do projeto: https://gym-orcin.vercel.app/</p>
 
 
